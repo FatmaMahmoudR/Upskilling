@@ -1,0 +1,28 @@
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\6- ExtensionMethods.exe.config
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\6- ExtensionMethods.exe
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\6- ExtensionMethods.pdb
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\obj\Debug\6- ExtensionMethods.csproj.AssemblyReference.cache
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\obj\Debug\6- ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\obj\Debug\6- ExtensionMethods.exe
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\obj\Debug\6- ExtensionMethods.pdb
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Buffers.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.IO.Pipelines.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Memory.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Numerics.Vectors.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Text.Encodings.Web.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Text.Json.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.ValueTuple.dll
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Buffers.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.IO.Pipelines.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Memory.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Numerics.Vectors.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Text.Encodings.Web.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Text.Json.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\bin\Debug\System.ValueTuple.xml
+E:\GIT\UpSkilling\AdvancedC#-Tasks\6- ExtensionMethods\6- ExtensionMethods\obj\Debug\6- Exten.46163A4C.Up2Date
