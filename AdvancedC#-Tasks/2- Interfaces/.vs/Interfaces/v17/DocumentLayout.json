@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACS\\source\\repos\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task4\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|solutionrelative:task4\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task4\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|solutionrelative:task4\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task4\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|solutionrelative:task4\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task4\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C02411-5A92-40AA-86C9-CC05D4EED685}|Task4\\Task4.csproj|solutionrelative:task4\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task3\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|solutionrelative:task3\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task3\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|solutionrelative:task3\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task3\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|solutionrelative:task3\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|c:\\users\\acs\\source\\repos\\interfaces\\task3\\imedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32220650-CAA8-494B-B6A2-8A7EE976D89B}|Task3\\Task3.csproj|solutionrelative:task3\\imedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:15:28.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\PushNotification.cs",
+              "RelativeDocumentMoniker": "Task4\\PushNotification.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\PushNotification.cs",
+              "RelativeToolTip": "Task4\\PushNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:11:50.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\SMS.cs",
+              "RelativeDocumentMoniker": "Task4\\SMS.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\SMS.cs",
+              "RelativeToolTip": "Task4\\SMS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:11:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\Email.cs",
+              "RelativeDocumentMoniker": "Task4\\Email.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\Email.cs",
+              "RelativeToolTip": "Task4\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:11:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\INotification.cs",
+              "RelativeDocumentMoniker": "Task4\\INotification.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task4\\INotification.cs",
+              "RelativeToolTip": "Task4\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:10:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\MediaPlayer.cs",
+              "RelativeDocumentMoniker": "Task3\\MediaPlayer.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\MediaPlayer.cs",
+              "RelativeToolTip": "Task3\\MediaPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:00:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\Video.cs",
+              "RelativeDocumentMoniker": "Task3\\Video.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\Video.cs",
+              "RelativeToolTip": "Task3\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:03:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\Audio.cs",
+              "RelativeDocumentMoniker": "Task3\\Audio.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\Audio.cs",
+              "RelativeToolTip": "Task3\\Audio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:03:24.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMedia.cs",
+              "DocumentMoniker": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\IMedia.cs",
+              "RelativeDocumentMoniker": "Task3\\IMedia.cs",
+              "ToolTip": "C:\\Users\\ACS\\source\\repos\\Interfaces\\Task3\\IMedia.cs",
+              "RelativeToolTip": "Task3\\IMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:02:27.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

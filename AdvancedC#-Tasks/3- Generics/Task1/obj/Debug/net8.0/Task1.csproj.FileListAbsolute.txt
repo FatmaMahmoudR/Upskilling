@@ -1,0 +1,15 @@
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\bin\Debug\net8.0\Task1.exe
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\bin\Debug\net8.0\Task1.deps.json
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\bin\Debug\net8.0\Task1.dll
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\bin\Debug\net8.0\Task1.pdb
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.dll
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\refint\Task1.dll
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.pdb
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+E:\GIT\AdvancedC#-Tasks\3- Generics\Task1\obj\Debug\net8.0\ref\Task1.dll

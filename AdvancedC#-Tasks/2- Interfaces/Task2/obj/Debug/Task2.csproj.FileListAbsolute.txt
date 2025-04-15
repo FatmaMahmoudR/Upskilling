@@ -1,0 +1,7 @@
+C:\Users\ACS\source\repos\Interfaces\Task2\bin\Debug\Task2.exe.config
+C:\Users\ACS\source\repos\Interfaces\Task2\bin\Debug\Task2.exe
+C:\Users\ACS\source\repos\Interfaces\Task2\bin\Debug\Task2.pdb
+C:\Users\ACS\source\repos\Interfaces\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\ACS\source\repos\Interfaces\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\ACS\source\repos\Interfaces\Task2\obj\Debug\Task2.exe
+C:\Users\ACS\source\repos\Interfaces\Task2\obj\Debug\Task2.pdb

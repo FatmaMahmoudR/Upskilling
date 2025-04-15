@@ -1,0 +1,15 @@
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.exe
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.deps.json
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.runtimeconfig.json
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.dll
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\bin\Debug\net8.0\Producer-Consumer.pdb
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.AssemblyInfoInputs.cache
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.AssemblyInfo.cs
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.csproj.CoreCompileInputs.cache
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.sourcelink.json
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.dll
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\refint\Producer-Consumer.dll
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.pdb
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\Producer-Consumer.genruntimeconfig.cache
+E:\GIT\AdvancedC#-Tasks\5- Threads\Producer-Consumer\obj\Debug\net8.0\ref\Producer-Consumer.dll

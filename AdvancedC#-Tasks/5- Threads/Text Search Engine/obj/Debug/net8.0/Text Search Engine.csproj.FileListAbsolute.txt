@@ -1,0 +1,15 @@
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.AssemblyInfoInputs.cache
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.AssemblyInfo.cs
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.csproj.CoreCompileInputs.cache
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.sourcelink.json
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\bin\Debug\net8.0\Text Search Engine.exe
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\bin\Debug\net8.0\Text Search Engine.deps.json
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\bin\Debug\net8.0\Text Search Engine.runtimeconfig.json
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\bin\Debug\net8.0\Text Search Engine.dll
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\bin\Debug\net8.0\Text Search Engine.pdb
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.dll
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\refint\Text Search Engine.dll
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.pdb
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\Text Search Engine.genruntimeconfig.cache
+E:\GIT\AdvancedC#-Tasks\5- Threads\Text Search Engine\obj\Debug\net8.0\ref\Text Search Engine.dll
