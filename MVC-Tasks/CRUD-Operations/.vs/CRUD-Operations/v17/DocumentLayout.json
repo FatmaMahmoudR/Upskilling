@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\employee\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\employee\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\department\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\department\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|e:\\git\\upskilling\\mvc-tasks\\crud-operations\\crud-operations\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EB7A5D4-6D9A-4292-89D0-64F5B6717E2D}|CRUD-Operations\\CRUD-Operations.csproj|solutionrelative:crud-operations\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUD-Operations\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:39:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Models\\Context.cs",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Models\\Context.cs",
+              "RelativeToolTip": "CRUD-Operations\\Models\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:40:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:48:59.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T09:58:23.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:01:09.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:01:42.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:03:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CRUD-Operations\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:05:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchById.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Department\\SearchById.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Department\\SearchById.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Department\\SearchById.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Department\\SearchById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:14:15.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchById.cshtml",
+              "DocumentMoniker": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\SearchById.cshtml",
+              "RelativeDocumentMoniker": "CRUD-Operations\\Views\\Employee\\SearchById.cshtml",
+              "ToolTip": "E:\\GIT\\UpSkilling\\MVC-Tasks\\CRUD-Operations\\CRUD-Operations\\Views\\Employee\\SearchById.cshtml",
+              "RelativeToolTip": "CRUD-Operations\\Views\\Employee\\SearchById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T10:19:38.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

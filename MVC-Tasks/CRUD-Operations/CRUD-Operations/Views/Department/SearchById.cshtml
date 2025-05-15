@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Search Department by ID";
+}
+
+<h2>Search Department by ID</h2>
+
+<form asp-action="SearchById" method="post">
+    <label>Enter Department ID:</label>
+    <input type="number" name="id" required />
+    <button type="submit">Search</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color:red">@ViewBag.Message</p>
+}
